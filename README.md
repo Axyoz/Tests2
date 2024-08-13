@@ -1,2 +1,2 @@
 # Tests2
-test
+!git clone <repository_url>
